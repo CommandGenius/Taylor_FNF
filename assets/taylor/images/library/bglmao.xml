@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bglmao.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="3978" height="1418"/>
+	<SubTexture name="bg0001" x="4066" y="0" width="3978" height="1418"/>
+	<SubTexture name="bg0002" x="0" y="1506" width="3978" height="1418"/>
+	<SubTexture name="bg0003" x="4066" y="1506" width="3978" height="1418"/>
+	<SubTexture name="bg0004" x="0" y="3012" width="3978" height="1418"/>
+	<SubTexture name="bg0005" x="0" y="3012" width="3978" height="1418"/>
+	<SubTexture name="bg0006" x="4066" y="3012" width="3978" height="1418"/>
+	<SubTexture name="bg0007" x="4066" y="3012" width="3978" height="1418"/>
+</TextureAtlas>

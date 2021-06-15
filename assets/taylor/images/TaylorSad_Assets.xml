@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TaylorSad_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TaylorSad Idle Dance0000" x="0" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0001" x="0" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0002" x="732" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0003" x="732" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0004" x="1464" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0005" x="1464" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0006" x="2196" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0007" x="2196" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Idle Dance0008" x="2928" y="0" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0000" x="0" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0001" x="0" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0002" x="732" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0003" x="732" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0004" x="1464" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0005" x="1464" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0006" x="2196" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0007" x="2196" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note DOWN0008" x="2196" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0000" x="2928" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0001" x="2928" y="720" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0002" x="0" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0003" x="0" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0004" x="732" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0005" x="732" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0006" x="1464" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0007" x="1464" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note LEFT0008" x="1464" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0000" x="2196" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0001" x="2196" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0002" x="2928" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0003" x="2928" y="1440" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0004" x="0" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0005" x="0" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0006" x="732" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0007" x="732" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note RIGHT0008" x="732" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0000" x="1464" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0001" x="1464" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0002" x="2196" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0003" x="2196" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0004" x="2928" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0005" x="2928" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0006" x="2928" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0007" x="2928" y="2160" width="644" height="632"/>
+	<SubTexture name="TaylorSad Note UP0008" x="2928" y="2160" width="644" height="632"/>
+</TextureAtlas>

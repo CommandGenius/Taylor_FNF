@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lamp.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LampBlue0000" x="0" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0001" x="551" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0002" x="1102" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0003" x="1653" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0004" x="2204" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0005" x="2755" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0006" x="3306" y="0" width="463" height="420"/>
+	<SubTexture name="LampBlue0007" x="0" y="508" width="463" height="420"/>
+	<SubTexture name="LampBlue0008" x="551" y="508" width="463" height="420"/>
+	<SubTexture name="LampBlue0009" x="1102" y="508" width="463" height="420"/>
+	<SubTexture name="LampDefault0000" x="1653" y="508" width="153" height="156"/>
+	<SubTexture name="LampYellow0000" x="1894" y="508" width="463" height="420"/>
+	<SubTexture name="LampYellow0001" x="2445" y="508" width="463" height="420"/>
+	<SubTexture name="LampYellow0002" x="2996" y="508" width="463" height="420"/>
+	<SubTexture name="LampYellow0003" x="3547" y="508" width="463" height="420"/>
+	<SubTexture name="LampYellow0004" x="0" y="1016" width="463" height="420"/>
+	<SubTexture name="LampYellow0005" x="551" y="1016" width="463" height="420"/>
+	<SubTexture name="LampYellow0006" x="1102" y="1016" width="463" height="420"/>
+	<SubTexture name="LampYellow0007" x="1653" y="1016" width="463" height="420"/>
+	<SubTexture name="LampYellow0008" x="2204" y="1016" width="463" height="420"/>
+	<SubTexture name="LampYellow0009" x="2755" y="1016" width="463" height="420"/>
+</TextureAtlas>
